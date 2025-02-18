@@ -8,3 +8,5 @@ The core functionality includes fetching stock data dynamically, visualizing key
 This project emphasizes scalability, responsiveness, and user-centric design. Advanced frameworks such as Plotly enhance the visualization experience, while ML models like Support Vector Regression (SVR) ensure accurate predictions. The platform is further designed to accommodate feature expansions, such as real-time data updates and multiple stock comparisons.
 
 Targeted at investors, analysts, and enthusiasts, the application serves as a valuable tool for making informed financial decisions. This abstract outlines the development process, which began in September 2024, and is progressing through iterative stages of prototyping, feature enhancement, and deployment, with the final submission scheduled for April 2025.
+
+![image](https://github.com/user-attachments/assets/65638cc9-e97e-477e-9943-d9dac6647d27)
